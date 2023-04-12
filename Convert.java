@@ -15,4 +15,3 @@ public class Convert {
 }
 }
 
-// i hate JAVA
